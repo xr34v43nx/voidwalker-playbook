@@ -5,6 +5,6 @@ Welcome to my IT / cybersecurity lab playbook.
 > Notes are continuously updated.
 
 
-## [Platforms](index_labs.md)
+## [Platforms](docs/Labs/index.md)
 
-## [Programming Languages](index_programming.md)
+## [Programming Languages](docs/Programming/index.md)
