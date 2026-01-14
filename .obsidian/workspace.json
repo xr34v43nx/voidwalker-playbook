@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "readme"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "5531319c783673f7",
   "lastOpenFiles": [
+    "Welcome.md",
+    "readme.md",
     "voidwalker_git_ssh_ID.pub",
-    "voidwalker_git_ssh_ID",
-    "Welcome.md"
+    "voidwalker_git_ssh_ID"
   ]
 }
