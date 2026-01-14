@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Programming/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,13 +198,13 @@
   },
   "active": "ed81fed5fde34c72",
   "lastOpenFiles": [
+    "docs/Programming/python.md",
+    "docs/Programming/index.md",
     "docs/Labs/index.md",
     "docs/index.md",
-    "docs/Programming/index.md",
     "docs/Labs/thm/index.md",
     "docs/Labs/htb/index.md",
     "index.md",
-    "docs/Programming/python.md",
     "docs/Labs/thm",
     "labs",
     "Labs/htb/htb_index 1.md",
