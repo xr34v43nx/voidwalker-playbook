@@ -1,0 +1,1 @@
+Where all machines completed on the Hack The Box platform will be listed.
