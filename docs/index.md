@@ -8,5 +8,5 @@ Welcome to my IT / cybersecurity lab playbook.
 - [Python](Programming/python.md)
 
 ## Platforms
-- [HackTheBox](htb_index%201.md)
+- [HackTheBox](htb_index.md)
 - 
