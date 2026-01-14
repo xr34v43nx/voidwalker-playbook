@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/machine.md.md",
+                "file": "templates/machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "machine.md"
+              "title": "machine"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/lab-note.md.md",
+                "file": "templates/machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-note.md"
+              "title": "machine"
             }
           }
         ],
@@ -210,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed81fed5fde34c72",
+  "active": "1b0e35881dd988f8",
   "lastOpenFiles": [
-    "templates/machine.md.md",
-    "templates/lab-note.md.md",
+    "templates/lab-note.md",
+    "templates/machine.md",
     "readme.md",
     "templates",
     "Welcome.md",
