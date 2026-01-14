@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Labs/otw/krypton/index.md",
+                "file": "docs/Labs/otw/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,6 +212,7 @@
   },
   "active": "4d6140856cf58cd0",
   "lastOpenFiles": [
+    "docs/Labs/otw/krypton/index.md",
     "docs/Labs/otw/index.md",
     "docs/Labs/otw/bandit/index.md",
     "docs/Labs/otw/natas/index.md",
@@ -222,7 +223,6 @@
     "Labs",
     "docs/Labs/index.md",
     "docs/Labs/otw/leviathan",
-    "docs/Labs/otw/krypton/index.md",
     "docs/Labs/otw/krypton",
     "docs/Labs/otw/natas",
     "otw",

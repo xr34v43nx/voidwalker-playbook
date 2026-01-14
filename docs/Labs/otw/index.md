@@ -2,7 +2,7 @@ Each shell game has it's own SSH port.
 
 # Wargames
 
-## [Bandit](docs/Labs/otw/bandit/index.md) - Unix/Linux basics
+## [Bandit](otw/bandit/index.md) - Unix/Linux basics
 
 ## [Natas](otw/natas/index.md) - Web Security
 
