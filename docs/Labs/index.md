@@ -1,7 +1,7 @@
 # Labs
 
 A list of all the labs from each platform.
-## [HackTheBox](/htb/)
-## [OverTheWire](/otw/)
-## [TryHackMe](/thm/)
+## [HackTheBox](htb/index.md)
+## [OverTheWire](otw/index.md)
+## [TryHackMe](thm/index.md)
  
