@@ -198,6 +198,10 @@
   },
   "active": "1b0e35881dd988f8",
   "lastOpenFiles": [
+    "Labs/Platforms",
+    "Labs/Platform",
+    "Labs",
+    "Programming",
     "docs/_config.yml",
     "docs/Programming",
     "templates/machine.md",
@@ -210,8 +214,6 @@
     "templates/lab-note.md",
     "readme.md",
     "templates",
-    "Welcome.md",
-    "voidwalker_git_ssh_ID.pub",
-    "voidwalker_git_ssh_ID"
+    "Welcome.md"
   ]
 }
