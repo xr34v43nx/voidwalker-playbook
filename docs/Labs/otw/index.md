@@ -2,12 +2,12 @@ Each shell game has it's own SSH port.
 
 # Wargames
 
-## [Bandit](/bandit/) - Unix/Linux basics
+## [Bandit](Labs/otw/bandit/) - Unix/Linux basics
 
-## [Natas](/natas/) - Web Security
+## [Natas](Labs/otw/natas/) - Web Security
 
-## [Krypton](/krypton/) - Cryptography
+## [Krypton](Labs/otw/krypton/) - Cryptography
 
-## [Leviathan](/leviathan/) - reverse engineering
+## [Leviathan](Labs/otw/leviathan/) - reverse engineering
 
 
