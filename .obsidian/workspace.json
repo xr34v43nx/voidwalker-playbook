@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/htb/htb_index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "htb_index"
+              "title": "index"
             }
           }
         ],
@@ -198,12 +198,12 @@
   },
   "active": "ed81fed5fde34c72",
   "lastOpenFiles": [
-    "docs/index.md",
-    "Programming/python.md",
-    "Programming/index_programming.md",
-    "Labs/htb/htb_index.md",
     "Labs/index_labs.md",
     "Labs/thm/thm_index.md",
+    "docs/index.md",
+    "Labs/htb/htb_index.md",
+    "Programming/index_programming.md",
+    "Programming/python.md",
     "Labs/thm",
     "labs",
     "Labs/htb/htb_index 1.md",

@@ -3,10 +3,6 @@
 Welcome to my IT / cybersecurity lab playbook.
 
 > Notes are continuously updated.
+## [Platforms](Labs/index_labs)
 
-## Programming Languages
-- [Python](Programming/python.md)
-
-## Platforms
-- [HackTheBox](htb_index.md)
-- 
+## [Programming Languages](Programming/index_programming)
