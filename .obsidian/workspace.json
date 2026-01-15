@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Labs/otw/bandit/bandit09.md",
+                "file": "docs/Labs/otw/bandit/bandit11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bandit09"
+              "title": "bandit11"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Labs/otw/bandit/bandit09.md",
+                "file": "docs/Labs/otw/bandit/bandit11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bandit09"
+              "title": "Backlinks for bandit11"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Labs/otw/bandit/bandit09.md",
+                "file": "docs/Labs/otw/bandit/bandit11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bandit09"
+              "title": "Outgoing links from bandit11"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Labs/otw/bandit/bandit09.md",
+                "file": "docs/Labs/otw/bandit/bandit11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bandit09"
+              "title": "Outline of bandit11"
             }
           }
         ],
@@ -187,10 +187,11 @@
   },
   "active": "fe4de6acc048140d",
   "lastOpenFiles": [
-    "docs/Labs/otw/bandit/index.md",
-    "docs/Labs/otw/bandit/bandit09.md",
-    "docs/Labs/otw/bandit/bandit10.md",
     "loot/otw/bandit/loot.md",
+    "docs/Labs/otw/bandit/bandit11.md",
+    "docs/Labs/otw/bandit/bandit10.md",
+    "docs/Labs/otw/bandit/bandit09.md",
+    "docs/Labs/otw/bandit/index.md",
     "docs/Labs/otw/bandit/bandit08.md",
     "docs/Labs/otw/bandit/bandit07.md",
     "docs/Labs/otw/bandit/bandit06.md",
@@ -200,7 +201,6 @@
     "docs/Labs/otw/bandit/bandit02.md",
     "docs/Labs/otw/bandit/bandit01.md",
     "docs/Labs/otw/bandit/bandit00.md",
-    "docs/Labs/otw/bandit/bandit11.md",
     "Untitled.md",
     "docs/Labs/otw/index.md",
     "docs/Labs/index.md",
