@@ -16,3 +16,4 @@ Sorting data within a file and command piping and redirection.
 - -d, --repeated: only print duplicate lines, one for each group
 - -u, --unique: only print unique lines
 
+uniq will not work properly unless the contents are sorted first.
