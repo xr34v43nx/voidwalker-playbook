@@ -7,5 +7,5 @@ How to determine file contents to determine that which is human readable versus 
 
 ### Commands possible to solve this level
 
--  `file` - %%``` file ./-file**```%%
--  `find` - %%```find . -type f -exec strings {} \;```%%
+-  `file` - >!``` file ./-file**```!<
+-  `find` - >!```find . -type f -exec strings {} \;```!<
