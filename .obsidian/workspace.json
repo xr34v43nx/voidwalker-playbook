@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Programming/index.md",
+                "file": "docs/Goals/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,6 +226,7 @@
   },
   "active": "3c309a0a8424ff3b",
   "lastOpenFiles": [
+    "docs/Programming/index.md",
     "docs/index.md",
     "docs/Labs/index.md",
     "Labs/index.md",
@@ -253,7 +254,6 @@
     "docs/Labs/otw/leviathan",
     "docs/Labs/otw/krypton",
     "docs/Labs/otw/natas",
-    "docs/Programming/index.md",
     "docs/Programming/python.md",
     "Labs/htb/htb_index 1.md",
     "templates/machine.md",
