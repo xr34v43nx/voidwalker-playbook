@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loot/otw/bandit/loot.md",
+                "file": "docs/Labs/otw/bandit/bandit05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loot"
+              "title": "bandit05"
             }
           }
         ]
@@ -183,15 +183,16 @@
   },
   "active": "fe4de6acc048140d",
   "lastOpenFiles": [
-    "docs/Labs/otw/bandit/bandit04.md",
     "loot/otw/bandit/loot.md",
+    "docs/Labs/otw/bandit/bandit05.md",
+    "docs/Labs/otw/bandit/bandit00.md",
+    "docs/Labs/otw/bandit/bandit01.md",
+    "docs/Labs/otw/bandit/bandit02.md",
     "docs/Labs/otw/bandit/bandit03.md",
+    "docs/Labs/otw/bandit/bandit04.md",
     "docs/Labs/otw/bandit/index.md",
     "docs/Labs/otw/index.md",
     "docs/Labs/index.md",
-    "docs/Labs/otw/bandit/bandit02.md",
-    "docs/Labs/otw/bandit/bandit01.md",
-    "docs/Labs/otw/bandit/bandit00.md",
     "loot/otw/bandit",
     "loot/otw",
     "loot",
@@ -217,7 +218,6 @@
     "Labs/otw/natas/index.md",
     "Labs/otw/natas",
     "Labs/otw",
-    "docs/Labs/otw/leviathan",
-    "docs/Programming/python.md"
+    "docs/Labs/otw/leviathan"
   ]
 }

@@ -3,7 +3,7 @@
 [bandit02](/bandit02.md)
 [bandit03](bandit03.md)
 [bandit04](bandit04.md)
-[bandit05](/bandit05.md)
+[bandit05](bandit05.md)
 [bandit06](/bandit06.md)
 [bandit07](/bandit07.md)
 [bandit08](/bandit08.md)
