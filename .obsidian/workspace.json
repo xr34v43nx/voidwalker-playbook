@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Labs/htb/GSRP/index.md",
+                "file": "docs/Labs/htb/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Labs/htb/GSRP/gsrp.md",
+                "file": "docs/Labs/htb/GSRP/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gsrp"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Labs/htb/GSRP/gsrp.md",
+                "file": "docs/Labs/htb/GSRP/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gsrp"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Labs/htb/GSRP/gsrp.md",
+                "file": "docs/Labs/htb/GSRP/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gsrp"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Labs/htb/GSRP/gsrp.md",
+                "file": "docs/Labs/htb/GSRP/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gsrp"
+              "title": "Outline of index"
             }
           }
         ],
@@ -200,13 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34f69590c2551311",
+  "active": "1b0e35881dd988f8",
   "lastOpenFiles": [
     "docs/Labs/htb/GSRP/index.md",
-    "docs/Labs/htb/GSRP/gsrp.md",
-    "docs/Labs/htb/GSRP/gsrp.md",
-    "docs/Labs/htb/GSRP/gsrp 1.md",
+    "docs/Labs/htb/GSRP/index.md",
     "docs/Labs/htb/index.md",
+    "docs/Labs/htb/GSRP/gsrp.md",
+    "docs/Labs/htb/GSRP/index 1.md",
+    "docs/Labs/htb/GSRP/gsrp 1.md",
     "docs/Labs/otw/bandit/bandit15.md",
     "docs/Labs/htb/GSRP",
     "docs/Labs/otw/bandit/index.md",
@@ -229,7 +230,6 @@
     "docs/Labs/otw/bandit/bandit01.md",
     "docs/Labs/otw/bandit/bandit00.md",
     "docs/Labs/otw/index.md",
-    "docs/Labs/index.md",
     "loot/otw/bandit",
     "loot/otw",
     "loot",
