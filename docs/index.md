@@ -11,3 +11,5 @@ You can call me XR, based on an abbreviation of my handle listed in the url. The
 ## [Platforms](Labs/index.md)
 
 ## [Programming Languages](Programming/index.md)
+
+## [Mental Models](docs/Mental_Models/index.md)

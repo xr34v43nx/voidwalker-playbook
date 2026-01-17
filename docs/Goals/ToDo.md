@@ -1,0 +1,2 @@
+- Familiarize myself with SSL/TLS
+- Chmod explanation
