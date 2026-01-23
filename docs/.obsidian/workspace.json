@@ -1,47 +1,19 @@
 {
   "main": {
-    "id": "afd0713ddd6beab6",
+    "id": "cf99442cf8e6c0aa",
     "type": "split",
     "children": [
       {
-        "id": "7ac5a2a46e0ecab6",
+        "id": "4181e34a43522922",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4de6acc048140d",
+            "id": "6e25c1de81835dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Labs/htb/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "34f69590c2551311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Labs/otw/bandit/bandit17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bandit17"
-            }
-          },
-          {
-            "id": "8c8e6d36e4e46054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Labs/otw/bandit/bandit24.md",
+                "file": "Labs/otw/bandit/bandit24.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,22 +21,21 @@
               "title": "bandit24"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b006b35b7be33ae7",
+    "id": "143570f7e05560ca",
     "type": "split",
     "children": [
       {
-        "id": "9b5886c126cb8ef7",
+        "id": "d277fa7c57124a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "1b0e35881dd988f8",
+            "id": "64e9cacfd8d468ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "a4e6caed1a05b955",
+            "id": "8837146ca9844aa0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "a3cda3b38d343d6b",
+            "id": "036ff710bb682130",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "f15dcdb3ee462816",
+    "id": "eedc81ab2e28c423",
     "type": "split",
     "children": [
       {
-        "id": "14012121c5559143",
+        "id": "e14a879a2272991f",
         "type": "tabs",
         "children": [
           {
-            "id": "00a3298ded3811b9",
+            "id": "13bdcd0d03693512",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Labs/otw/bandit/bandit24.md",
+                "file": "Labs/otw/bandit/bandit24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,12 +108,12 @@
             }
           },
           {
-            "id": "d806e68201ee99d6",
+            "id": "98322dc0abf282c2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Labs/otw/bandit/bandit24.md",
+                "file": "Labs/otw/bandit/bandit24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -151,7 +122,7 @@
             }
           },
           {
-            "id": "fa6eef71a4797994",
+            "id": "95f2028a668b4875",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +137,7 @@
             }
           },
           {
-            "id": "08c7f58dd5ce4643",
+            "id": "6a21c59c33f189f0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,12 +151,12 @@
             }
           },
           {
-            "id": "9e0294b93077ab35",
+            "id": "6fe7889b4e5937fa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Labs/otw/bandit/bandit24.md",
+                "file": "Labs/otw/bandit/bandit24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,8 +165,7 @@
               "title": "Outline of bandit24"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,47 +180,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "8c8e6d36e4e46054",
-  "lastOpenFiles": [
-    "loot/otw/bandit/loot.md",
-    "docs/Labs/otw/bandit/bandit24.md",
-    "docs/Labs/otw/bandit/bandit18.md",
-    "docs/Labs/otw/bandit/bandit17.md",
-    "docs/Labs/otw/bandit/index.md",
-    "docs/Labs/otw/bandit/bandit23.md",
-    "docs/Labs/otw/bandit/bandit22.md",
-    "docs/Labs/otw/bandit/bandit21.md",
-    "docs/Labs/otw/bandit/bandit20.md",
-    "docs/Labs/otw/bandit/bandit19.md",
-    "docs/index.md",
-    "docs/Mental_Models/index.md",
-    "docs/Mental_Models",
-    "Mental/index.md",
-    "Mental",
-    "docs/Mental Models/Mental.md",
-    "docs/Mental_Models",
-    "docs/Goals/ToDo.md",
-    "loot/otw/bandit17.rsa",
-    "loot/otw/bandit/bandit17.rsa.md",
-    "docs/Labs/otw/bandit/bandit16.md",
-    "docs/Labs/otw/bandit/bandit15.md",
-    "docs/Labs/htb/GSRP/index.md",
-    "docs/Labs/htb/index.md",
-    "docs/Labs/htb/GSRP/gsrp.md",
-    "docs/Labs/htb/GSRP/gsrp 1.md",
-    "docs/Labs/htb/GSRP",
-    "docs/Labs/otw/bandit/bandit14.md",
-    "loot/otw/sshkey.private",
-    "docs/Labs/otw/bandit/bandit13.md",
-    "docs/Labs/otw/bandit/bandit12.md",
-    "docs/Labs/otw/bandit/bandit11.md",
-    "loot/otw/bandit",
-    "loot/otw",
-    "loot",
-    "Labs"
-  ]
+  "active": "6e25c1de81835dc7",
+  "lastOpenFiles": []
 }

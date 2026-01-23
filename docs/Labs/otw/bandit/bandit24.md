@@ -30,3 +30,8 @@ done
 
 ```
 
+Lets "Step Through" this script.
+When it runs it changes the directory to `/var/spool/"$myname"/foo` and then exits
+then echos the text. for  i in file . extension;
+do
+	 if file does not equal current directory and does not equal the previous directory then echo out Handling file, owner equals shell to call the user and run with args and the script in question. if the owner equals bandit23 and file is $i wait 60 seconds and run. finish the execution and then delete the file. Complete the program.
